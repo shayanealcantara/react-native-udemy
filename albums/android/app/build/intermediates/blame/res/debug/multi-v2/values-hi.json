@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shay/react-native/getting-started/udemy-curso/albums/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml",
+            "map": [
+                {
+                    "source": "/home/shay/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8f2fb4d3f4982eec67c3b156ad3fcf1a/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1956",
+                        "endColumns": "100",
+                        "endOffsets": "2052"
+                    }
+                },
+                {
+                    "source": "/home/shay/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cc31254c8b4774dfb00cdcc5b79cbeb6/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,211,308,418,504,606,728,805,883,973,1082,1185,1287,1397,1498,1613,1775,1876",
+                        "endColumns": "105,96,109,85,101,121,76,77,89,108,102,101,109,100,114,161,100,79",
+                        "endOffsets": "206,303,413,499,601,723,800,878,968,1077,1180,1282,1392,1493,1608,1770,1871,1951"
+                    }
+                }
+            ]
+        }
+    ]
+}

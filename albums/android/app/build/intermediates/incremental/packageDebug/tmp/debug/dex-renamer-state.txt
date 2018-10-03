@@ -1,0 +1,4 @@
+#Mon Sep 24 17:25:03 BRT 2018
+base.0=/home/shay/react-native/getting-started/udemy-curso/albums/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
